@@ -1,0 +1,19 @@
+{
+  "name": "interview-answers",
+  "version": "0.0.1",
+  "description": "FAQ for a job interview",
+  "main": "index.js",
+  "authors": {
+    "name": "Mikhail Morshinin",
+    "email": "314159265absurdus@gmail.com"
+  },
+  "repository": "https://github.com/morshinin/interview-answers/interview-answers",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
